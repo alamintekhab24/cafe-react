@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cafe-react/static/css/main.b36b2819.css",
+    "main.js": "/cafe-react/static/js/main.9549aaf8.js",
+    "index.html": "/cafe-react/index.html",
+    "main.b36b2819.css.map": "/cafe-react/static/css/main.b36b2819.css.map",
+    "main.9549aaf8.js.map": "/cafe-react/static/js/main.9549aaf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b36b2819.css",
+    "static/js/main.9549aaf8.js"
+  ]
+}
